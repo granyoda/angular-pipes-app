@@ -11,7 +11,7 @@ import { OrderComponent } from './pages/order/order.component';
 //Pipes
 import { ToggleCasePipe } from './pipes/toggle-case.pipe';
 import { CanFlyPipe } from './pipes/can-fly.pipe';
-import { SortByPipe } from './pipes/sortBy.pipe';
+import { SortByPipe } from './pipes/sort-by.pipe';
 
 
 @NgModule({
